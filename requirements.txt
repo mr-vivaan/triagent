@@ -1,0 +1,10 @@
+typesafe-sdk          # Jev (official Python SDK)
+scikit-learn
+pandas
+numpy
+requests
+python-dotenv
+# only needed for the DistilBERT router / training (Phase 2):
+# torch
+# transformers
+# datasets            # only for data/prepare_data.py
